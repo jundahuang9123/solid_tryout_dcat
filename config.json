@@ -1,0 +1,7 @@
+{
+  "clientId": "YOUR_CLIENT_ID",
+  "clientSecret": "YOUR_CLIENT_SECRET",
+  "oidcIssuer": "https://broker.pod.inrupt.com",
+  "refreshToken": "YOUR_REFRESH_TOKEN",
+  "podBaseUrl": "https://yourusername.pod.inrupt.com"
+}
